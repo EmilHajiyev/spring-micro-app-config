@@ -1,3 +1,4 @@
-user:
-  service:
-    name: User Service Example
+app:
+  name: User Service
+  version: 1.0
+  description: Users Common configurations for all environments.
