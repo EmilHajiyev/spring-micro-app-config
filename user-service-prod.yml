@@ -1,0 +1,6 @@
+spring:
+  profiles: prod
+server:
+  port: 8082
+app:
+  environment: production
