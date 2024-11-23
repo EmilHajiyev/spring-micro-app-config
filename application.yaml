@@ -7,3 +7,7 @@ eureka:
 
 welcome:
   message: Welcome to the Spring Cloud Config managed application!
+
+logging:
+  level:
+    root: INFO
